@@ -44,7 +44,7 @@ SRT processing does not require SupMover.
    └── SupMover.exe
    ```
 
-2. Drag and drop one or more subtitle files or folders onto `Subtitle_sync.bat`.
+2. Drag and drop one or more subtitle files or folders onto `Subtitle_sync.py`.
 3. Select the desired FPS conversion mode.
 4. Enter the subtitle delay.
 5. The script will automatically process all supported files.
