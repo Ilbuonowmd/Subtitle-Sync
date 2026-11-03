@@ -41,7 +41,6 @@ SRT processing does not require SupMover.
    ```text
    Subtitle Sync/
    ├── Subtitle_sync.py
-   ├── Subtitle_sync.bat
    └── SupMover.exe
    ```
 
